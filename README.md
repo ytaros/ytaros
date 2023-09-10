@@ -1,16 +1,13 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=ytaros&fontSize=40&fontAlignY=40&height=250)
 
-<!--
-**ytaros/ytaros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: @huhn84u8](https://img.shields.io/twitter/follow/huhn84u8?style=social)](https://twitter.com/huhn84u8)
+---
 
-Here are some ideas to get you started:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ytaros&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ytaros&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ytaros&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![ytaros's github activity graph](https://activity-graph.herokuapp.com/graph?username=ytaros&theme=xcode)](https://git.io/ytaros)
