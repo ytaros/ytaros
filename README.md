@@ -1,10 +1,6 @@
 <div align="center">
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=ytaros&fontSize=40&fontAlignY=40&height=250)
-
-  [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ytaros)](https://github.com/ytaros)
-  [![X](https://img.shields.io/badge/--FFFFFF?style=social&logo=X&label=Follow%20@huhn84u8)]([https://twitter.com/Daidai_0921](https://twitter.com/huhn84u8)https://twitter.com/huhn84u8)
-  
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ytaros&theme=nord_dark)
   
   <p>
